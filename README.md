@@ -206,10 +206,6 @@ This project is for educational purposes. Feel free to modify and use as needed.
 -SIRLEY CHUVE PEREZ
 -JHOSELYN LARA HINOJOSA 
 
-## IMAGENES DEL LA PÁGINA
-![PÁGINA](img/fashion.PNG)
-![PÁGIBA](img/fashion2.PNG)
-![PÁGINA](img/fashion3.PNG)
 
 
 
